@@ -1,0 +1,19 @@
+body {
+	background-image: url(books.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #FFADAB;
+	text-align: center;
+	border: 2px solid #FF6C68;
+}
+
+li{
+	color: white;
+	list-style: none;
+	display: inline-block;
+}
+p {
+	color: white;
+}
